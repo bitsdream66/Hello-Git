@@ -34,3 +34,15 @@ h1{
 #container h1{
     font-size: 30px;
 }
+
+#footer{
+    background-color: #000;
+    color: white;
+    height: 40px;
+    text-align: center;
+}
+
+span{
+    font-weight: bold;
+    font-style: italic;
+}
