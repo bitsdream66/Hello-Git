@@ -6,6 +6,23 @@ body{
     margin: 0px;
 }
 
+#cabecera{
+    display: flex;
+    align-items: center;
+    background-color: #75a5ee;
+}
+
+#cabecera img{
+    width: 240px;
+    height: 160px;
+    padding: 3px 3px 3px 10px;
+}
+
+h1{
+    width: 80%;
+    text-align: center;
+}
+
 #container{
     width: 70%;
     padding: 1em;
