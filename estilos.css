@@ -21,9 +21,8 @@ body{
 #footer{
     background-color: #000;
     color: white;
-    height: 50px;
-    
-    padding: 5px 5px;
+    height: 40px;
+    text-align: center;
 }
 
 span{
